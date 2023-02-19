@@ -6,6 +6,8 @@ from data import create_dataFrame
 import numpy as np
 import plotly.express as px
 
+
+
 style_cell={'textAlign': 'center',
             'backgroundColor': '#f5f5f5',
             'fontWeight': 'bold',

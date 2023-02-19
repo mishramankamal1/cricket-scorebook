@@ -7,6 +7,8 @@ def random_string(length):
     letters = string.ascii_letters
     return ''.join(random.choice(letters) for i in range(length))
 
+
+
 # Create data for the DataFrame
 def create_dataFrame():
     data = {

@@ -34,6 +34,8 @@ class CricketMatch:
 # Create an instance of the CricketMatch class
 match = CricketMatch()
 
+
+
 # Play the match
 batsman = "Batsman1"
 bowler = "Bowler1"

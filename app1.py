@@ -53,3 +53,5 @@ def update_table_and_graph(n_clicks, age):
 # run the app
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+
